@@ -1,11 +1,11 @@
-About asdf-transform-schemas
-============================
+About asdf-transform-schemas-feedstock
+======================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/asdf-transform-schemas-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/asdf-format/asdf-transform-schemas
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/asdf-transform-schemas-feedstock/blob/main/LICENSE.txt)
 
 Summary: ASDF schemas for transforms
 
@@ -144,5 +144,6 @@ Feedstock Maintainers
 =====================
 
 * [@WilliamJamieson](https://github.com/WilliamJamieson/)
+* [@braingram](https://github.com/braingram/)
 * [@jhunkeler](https://github.com/jhunkeler/)
 
