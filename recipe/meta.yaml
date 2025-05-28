@@ -1,5 +1,5 @@
 {% set name = "asdf-transform-schemas" %}
-{% set version = "0.5.0" %}
+{% set version = "0.6.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,12 +7,12 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/asdf_transform_schemas-{{ version }}.tar.gz
-  sha256: 82cf4c782575734a895327f25ff583ce9499d7e2b836fe8880b2d7961c6b462b
+  sha256: 0f50f8e096fffd2d14b9c82995901266ef25b23d0dffc30ad41bba46851a9732
 
 build:
   noarch: python
   script: {{ PYTHON }} -m pip install . -vv
-  number: 1
+  number: 0
 
 requirements:
   host:
